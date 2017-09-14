@@ -1,5 +1,5 @@
 .App {
-  background-color: lightgrey;
+  background-color: orange;
 }
 
 .title {
@@ -41,6 +41,8 @@
 .card {
   padding: 10px;
   margin: 10px;
+  text-align: center;
+  border: 3px dashed #AEA983
 }
 
 .earthquake-title {
